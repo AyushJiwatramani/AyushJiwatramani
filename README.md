@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ayush Jiwatramani
 - 👀 I’m interested in solving coding problems and making apps
-- 🌱 I’m currently learning Flutter and DSA.
-- 💞️ I’m looking to collaborate on apps that use Dart and Flutter
+- 🌱 I’m currently learning Full Stack Development and DSA.
+- 💞️ I’m looking to collaborate Web Development projects
 - 📫 Contact me at jiwatramaniayush@gmail.com
 
 <!---
